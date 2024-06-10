@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#040e4a;
+}
+p{
+  color:#5f71d9;
+.conten1
+align-items: center;
+justify-content: center
+display: flex;
+}
+.conten1 img{
+  height: 100px;
+}
